@@ -40,7 +40,7 @@ Follow these steps to set up and use the repository:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/philopateermansour/aws-infra-ansible-terraform-jenkins-ci-cd.git
+   git clone https://github.com/diogofrmota/aws-infra-ansible-terraform-jenkins-ci-cd.git
    cd aws-infra-ansible-terraform-jenkins-ci-cd
    ```
 
